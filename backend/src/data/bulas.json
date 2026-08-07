@@ -1,0 +1,47 @@
+[
+  {
+    "ean": "7891000100011",
+    "paraQueServe": "Controla a pressao alta reduzindo a resistencia dos vasos sanguineos. Tambem auxilia na protecao dos rins em pacientes diabeticos.",
+    "efeitosColaterais": ["Tontura", "Fadiga", "Tosse seca", "Dor de cabeca"],
+    "atencao": "Evite ingerir com suco de toranja (grapefruit). Nao suspenda o tratamento sem orientacao medica.",
+    "infoPaciente": "1. PARA QUE ESTE MEDICAMENTO E INDICADO?\nTratamento da hipertensao arterial e insuficiencia cardiaca.\n\n2. COMO FUNCIONA?\nBloqueia receptores de angiotensina II, relaxando os vasos e reduzindo a pressao.",
+    "interacoes": "Diureticos poupadores de potassio: risco de hipercalemia. Litio: pode aumentar toxicidade.",
+    "interacoesAlimentares": "Alcool: pode potencializar tonturas. Suco de toranja: pode alterar concentracao sanguinea."
+  },
+  {
+    "ean": "7891000200025",
+    "paraQueServe": "Alivia dores leves a moderadas e reduz a febre. Atua no sistema nervoso central inibindo substancias responsaveis pela dor e pela temperatura elevada.",
+    "efeitosColaterais": ["Nausea", "Dor abdominal", "Reacoes alergicas na pele", "Queda de pressao"],
+    "atencao": "Nao usar por mais de 3 dias sem orientacao medica. Suspender imediatamente em caso de manchas roxas na pele ou febre persistente.",
+    "infoPaciente": "1. PARA QUE ESTE MEDICAMENTO E INDICADO?\nTratamento de dores leves a moderadas e febre.\n\n2. COMO FUNCIONA?\nAge no sistema nervoso central reduzindo a producao de prostaglandinas responsaveis pela dor e pela febre.",
+    "interacoes": "Outros analgesicos: risco de toxicidade. Anticoagulantes: pode potencializar efeito. Alcool: aumento de toxicidade no figado.",
+    "interacoesAlimentares": "Alcool: risco de dano hepatico e digestivo. Evitar consumo concomitante."
+  },
+  {
+    "ean": "7891000300039",
+    "paraQueServe": "Reduz a producao de acido no estomago, aliviando sintomas de azia, refluxo e gastrite. Auxilia na cicatrizacao de ulceras.",
+    "efeitosColaterais": ["Dor de cabeca", "Diarreia", "Constipacao", "Nausea"],
+    "atencao": "Nao usar por mais de 14 dias seguidos sem orientacao medica. Engolir a capsula inteira, sem mastigar.",
+    "infoPaciente": "1. PARA QUE ESTE MEDICAMENTO E INDICADO?\nTratamento de refluxo gastrico, gastrite e ulcera peptica.\n\n2. COMO FUNCIONA?\nInibe a bomba de protones das celulas do estomago, reduzindo drasticamente a producao de acido.",
+    "interacoes": "Cetoconazol e itraconazol: reducao de absorcao. Clopidogrel: pode reduzir efeito. Metotrexato: aumento de toxicidade.",
+    "interacoesAlimentares": "Tomar em jejum, 30 minutos antes do cafe da manha. Evitar consumo excessivo de cafe e bebidas alcoolicas."
+  },
+  {
+    "ean": "7891000400043",
+    "paraQueServe": "Alivia dores leves e reduz a febre. E uma opcao segura para a maioria das pessoas quando usado nas doses recomendadas.",
+    "efeitosColaterais": ["Nausea", "Reacoes alergicas raras", "Dor de estomago", "Erupcoes na pele"],
+    "atencao": "Nao exceder a dose maxima diaria. Em caso de problemas no figado, consultar medico antes do uso.",
+    "infoPaciente": "1. PARA QUE ESTE MEDICAMENTO E INDICADO?\nTratamento de dores leves e febre em adultos e criancas.\n\n2. COMO FUNCIONA?\nAge no sistema nervoso central inibindo a producao de prostaglandinas responsaveis pela dor e pela temperatura.",
+    "interacoes": "Varfarina: pode aumentar risco de sangramento. Outros medicamentos com paracetamol: risco de dose excessiva.",
+    "interacoesAlimentares": "Alcool: risco aumentado de dano hepatico. Pode ser ingerido com ou sem alimentos."
+  },
+  {
+    "ean": "7891000500057",
+    "paraQueServe": "Reduz dores, febre e inflamacao. E indicado para dores articulares, musculares, febre e processos inflamatorios.",
+    "efeitosColaterais": ["Dor de estomago", "Azia", "Nausea", "Tontura"],
+    "atencao": "Tomar com alimentos ou apos as refeicoes. Nao usar em caso de ulcera gastrica. Evitar uso prolongado.",
+    "infoPaciente": "1. PARA QUE ESTE MEDICAMENTO E INDICADO?\nTratamento de dores moderadas, febre e inflamacoes articulares e musculares.\n\n2. COMO FUNCIONA?\nInibe enzimas responsaveis pela producao de prostaglandinas, reduzindo dor, febre e inflamacao.",
+    "interacoes": "Anticoagulantes: aumento do risco de sangramento. Outros anti-inflamatorios: risco gastrico. Diureticos: reducao de efeito.",
+    "interacoesAlimentares": "Alcool: aumento do risco gastrico. Tomar sempre com alimentos para proteger o estomago."
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "ean": "7891000100011",
+    "nomeProduto": "Losartana Potassica 50mg",
+    "razaoSocial": "EMS",
+    "numeroRegistro": "1.0800.0194.001-9",
+    "principioAtivo": "Losartana Potassica",
+    "categoria": "Anti-hipertensivo",
+    "apresentacao": "Comprimido revestido 50mg - embalagem com 30"
+  },
+  {
+    "ean": "7891000200025",
+    "nomeProduto": "Dipirona Sodica 500mg",
+    "razaoSocial": "EMS",
+    "numeroRegistro": "1.0985.0432.001-4",
+    "principioAtivo": "Dipirona Sodica",
+    "categoria": "Analgesico e antitermico",
+    "apresentacao": "Comprimido 500mg - embalagem com 20"
+  },
+  {
+    "ean": "7891000300039",
+    "nomeProduto": "Omeprazol 20mg",
+    "razaoSocial": "EMS",
+    "numeroRegistro": "1.1234.0567.001-2",
+    "principioAtivo": "Omeprazol",
+    "categoria": "Protetor gastrico",
+    "apresentacao": "Capsula 20mg - embalagem com 28"
+  },
+  {
+    "ean": "7891000400043",
+    "nomeProduto": "Paracetamol 750mg",
+    "razaoSocial": "Medley",
+    "numeroRegistro": "1.1213.0345.001-8",
+    "principioAtivo": "Paracetamol",
+    "categoria": "Analgesico e antitermico",
+    "apresentacao": "Comprimido 750mg - embalagem com 20"
+  },
+  {
+    "ean": "7891000500057",
+    "nomeProduto": "Ibuprofeno 600mg",
+    "razaoSocial": "EMS",
+    "numeroRegistro": "1.0985.0678.001-3",
+    "principioAtivo": "Ibuprofeno",
+    "categoria": "Anti-inflamatorio",
+    "apresentacao": "Comprimido 600mg - embalagem com 10"
+  },
+  {
+    "ean": "7891000600061",
+    "nomeProduto": "Amoxicilina 500mg",
+    "razaoSocial": "EMS",
+    "numeroRegistro": "1.0985.0901.001-6",
+    "principioAtivo": "Amoxicilina",
+    "categoria": "Antibiotico",
+    "apresentacao": "Capsula 500mg - embalagem com 21"
+  },
+  {
+    "ean": "7891000700075",
+    "nomeProduto": "Metformina 850mg",
+    "razaoSocial": "EMS",
+    "numeroRegistro": "1.0800.0234.001-5",
+    "principioAtivo": "Cloridrato de Metformina",
+    "categoria": "Antidiabetico",
+    "apresentacao": "Comprimido 850mg - embalagem com 60"
+  },
+  {
+    "ean": "7891000800089",
+    "nomeProduto": "Sinvastatina 20mg",
+    "razaoSocial": "EMS",
+    "numeroRegistro": "1.0800.0456.001-1",
+    "principioAtivo": "Sinvastatina",
+    "categoria": "Redutor de colesterol",
+    "apresentacao": "Comprimido 20mg - embalagem com 30"
+  },
+  {
+    "ean": "7891000900093",
+    "nomeProduto": "Atenolol 25mg",
+    "razaoSocial": "EMS",
+    "numeroRegistro": "1.0800.0678.001-8",
+    "principioAtivo": "Atenolol",
+    "categoria": "Anti-hipertensivo",
+    "apresentacao": "Comprimido 25mg - embalagem com 30"
+  },
+  {
+    "ean": "7891000101017",
+    "nomeProduto": "Loratadina 10mg",
+    "razaoSocial": "EMS",
+    "numeroRegistro": "1.0985.0890.001-4",
+    "principioAtivo": "Loratadina",
+    "categoria": "Antialergico",
+    "apresentacao": "Comprimido 10mg - embalagem com 12"
+  },
+  {
+    "ean": "7891000110010",
+    "nomeProduto": "Captopril 25mg",
+    "razaoSocial": "EMS",
+    "numeroRegistro": "1.0800.0123.001-7",
+    "principioAtivo": "Captopril",
+    "categoria": "Anti-hipertensivo",
+    "apresentacao": "Comprimido 25mg - embalagem com 30"
+  },
+  {
+    "ean": "7891000120026",
+    "nomeProduto": "Prednisona 20mg",
+    "razaoSocial": "EMS",
+    "numeroRegistro": "1.0573.0456.001-2",
+    "principioAtivo": "Prednisona",
+    "categoria": "Anti-inflamatorio corticoide",
+    "apresentacao": "Comprimido 20mg - embalagem com 20"
+  },
+  {
+    "ean": "7891000130032",
+    "nomeProduto": "Acido Acetilsalicilico 100mg",
+    "razaoSocial": "Bayer",
+    "numeroRegistro": "1.0421.0890.001-9",
+    "principioAtivo": "Acido Acetilsalicilico",
+    "categoria": "Antiagregante plaquetario",
+    "apresentacao": "Comprimido 100mg - embalagem com 30"
+  },
+  {
+    "ean": "7891000140048",
+    "nomeProduto": "Clonazepam 2mg",
+    "razaoSocial": "EMS",
+    "numeroRegistro": "1.0573.0678.001-5",
+    "principioAtivo": "Clonazepam",
+    "categoria": "Ansiolitico",
+    "apresentacao": "Comprimido 2mg - embalagem com 30"
+  },
+  {
+    "ean": "7891000150054",
+    "nomeProduto": "Ranitidina 150mg",
+    "razaoSocial": "EMS",
+    "numeroRegistro": "1.0985.0123.001-0",
+    "principioAtivo": "Cloridrato de Ranitidina",
+    "categoria": "Protetor gastrico",
+    "apresentacao": "Comprimido 150mg - embalagem com 20"
+  }
+]

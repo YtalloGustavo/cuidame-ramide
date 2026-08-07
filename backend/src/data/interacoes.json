@@ -1,0 +1,62 @@
+[
+  {
+    "principioAtivo": "Losartana Potassica",
+    "interageCom": "Dipirona Sodica",
+    "severidade": "moderada",
+    "descricao": "Uso concomitante pode reduzir o efeito anti-hipertensivo da losartana."
+  },
+  {
+    "principioAtivo": "Losartana Potassica",
+    "interageCom": "Ibuprofeno",
+    "severidade": "moderada",
+    "descricao": "AINEs podem reduzir o efeito anti-hipertensivo e aumentar risco de lesao renal."
+  },
+  {
+    "principioAtivo": "Losartana Potassica",
+    "interageCom": "Acido Acetilsalicilico",
+    "severidade": "leve",
+    "descricao": "Doses baixas de AAS geralmente seguras, monitorar pressao."
+  },
+  {
+    "principioAtivo": "Sinvastatina",
+    "interageCom": "Clonazepam",
+    "severidade": "leve",
+    "descricao": "Sem interacao clinica significativa conhecida."
+  },
+  {
+    "principioAtivo": "Dipirona Sodica",
+    "interageCom": "Acido Acetilsalicilico",
+    "severidade": "moderada",
+    "descricao": "Uso concomitante aumenta risco de sangramento."
+  },
+  {
+    "principioAtivo": "Ibuprofeno",
+    "interageCom": "Acido Acetilsalicilico",
+    "severidade": "moderada",
+    "descricao": "AINEs combinados aumentam risco gastrointestinal e cardiovascular."
+  },
+  {
+    "principioAtivo": "Omeprazol",
+    "interageCom": "Clonazepam",
+    "severidade": "leve",
+    "descricao": "Omeprazol pode alterar absorcao de alguns medicamentos."
+  },
+  {
+    "principioAtivo": "Metformina",
+    "interageCom": "Contraste",
+    "severidade": "grave",
+    "descricao": "Suspender metformina antes de exames com contraste iodado."
+  },
+  {
+    "principioAtivo": "Prednisona",
+    "interageCom": "Ibuprofeno",
+    "severidade": "grave",
+    "descricao": "Corticoide + AINE aumenta risco de ulcera e sangramento gastrico."
+  },
+  {
+    "principioAtivo": "Captopril",
+    "interageCom": "Losartana Potassica",
+    "severidade": "grave",
+    "descricao": "Combinacao de dois anti-hipertensivos pode causar hipotensao severa."
+  }
+]
