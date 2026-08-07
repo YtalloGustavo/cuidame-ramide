@@ -1,4 +1,4 @@
-# MedApp – API Local: Guia de Uso e Testes
+# CuidaME – API Local: Guia de Uso e Testes
 
 ## Sumário
 
